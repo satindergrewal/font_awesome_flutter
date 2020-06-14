@@ -32,11 +32,11 @@ flutter:
         - asset: lib/fonts/fa-solid-900.ttf
           weight: 900
 # Uncomment the following lines to support pro icons
-#    - family: FontAwesomeLight
-#      fonts:
-#        - asset: lib/fonts/fa-light-300.ttf
-#          weight: 300
-#    - family: FontAwesomeDuotone
-#      fonts:
-#        - asset: lib/fonts/fa-duotone-900.ttf
-#          weight: 900
+   - family: FontAwesomeLight
+     fonts:
+       - asset: lib/fonts/fa-light-300.ttf
+         weight: 300
+   - family: FontAwesomeDuotone
+     fonts:
+       - asset: lib/fonts/fa-duotone-900.ttf
+         weight: 900
